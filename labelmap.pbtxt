@@ -1,0 +1,64 @@
+item {
+  id: 1
+  name: 'button'
+}
+item {
+  id: 2
+  name: 'card-body'
+}
+item {
+  id: 3
+  name: 'card-div'
+}
+item {
+  id: 4
+  name: 'card-header'
+}
+item {
+  id: 5
+  name: 'carousel'
+}
+item {
+  id: 6
+  name: 'footer'
+}
+item {
+  id: 7
+  name: 'img'
+}
+item {
+  id: 8
+  name: 'jumbotron'
+}
+item {
+  id: 9
+  name: 'large-title'
+}
+item {
+  id: 10
+  name: 'list-group'
+}
+item {
+  id: 11
+  name: 'list-group-item_0'
+}
+item {
+  id: 12
+  name: 'list-group-item-text'
+}
+item {
+  id: 13
+  name: 'nav-brand'
+}
+item {
+  id: 14
+  name: 'nav-link'
+}
+item {
+  id: 15
+  name: 'navbar'
+}
+item {
+  id: 16
+  name: 'text'
+}
